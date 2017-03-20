@@ -1,2 +1,2 @@
 # int-decimal
-Implement a fixed point decimal library using integers. 
+A proof of concept implementation of a fixed point decimal system using int64
